@@ -1,4 +1,4 @@
-# Virtual Cosmos
+﻿﻿# Virtual Cosmos
 
 > A 2D virtual environment where users move around and interact through proximity-based real-time chat.
 
@@ -305,5 +305,3 @@ This is intentionally server-side to prevent client-side cheating and to ensure 
 | `npm run dev:client` | Start client only |
 | `cd server && npm run build` | Compile server TypeScript |
 | `cd client && npm run build` | Build client for production |
-#   T u t e D u d e  
- 
