@@ -189,10 +189,10 @@ Set these before starting the server (optional — defaults shown):
 
 ```bash
 # Windows PowerShell
-$env:MONGO_URI="mongodb+srv://user:pass@cluster.mongodb.net/virtual-cosmos"
+$env:MONGO_URI="your-mongodb-connection-string"
 
 # macOS / Linux
-export MONGO_URI="mongodb+srv://user:pass@cluster.mongodb.net/virtual-cosmos"
+export MONGO_URI="your-mongodb-connection-string"
 ```
 
 ---
